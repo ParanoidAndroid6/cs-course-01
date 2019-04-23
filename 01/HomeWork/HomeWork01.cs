@@ -17,10 +17,8 @@ namespace HomeWork
             Console.WriteLine("Hello World!");
             Thread.Sleep(5000);
             Console.WriteLine("Bye!");
-
-
             Console.ReadLine();
       
-                }
-    }
+  }
+ }
 }

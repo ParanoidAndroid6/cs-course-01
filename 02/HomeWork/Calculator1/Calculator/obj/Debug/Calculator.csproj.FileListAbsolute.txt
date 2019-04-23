@@ -1,0 +1,7 @@
+C:\Users\kachi\cs-course-01\02\HomeWork\Calculator1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\kachi\cs-course-01\02\HomeWork\Calculator1\Calculator\bin\Debug\Calculator.exe
+C:\Users\kachi\cs-course-01\02\HomeWork\Calculator1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\kachi\cs-course-01\02\HomeWork\Calculator1\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\kachi\cs-course-01\02\HomeWork\Calculator1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kachi\cs-course-01\02\HomeWork\Calculator1\Calculator\obj\Debug\Calculator.exe
+C:\Users\kachi\cs-course-01\02\HomeWork\Calculator1\Calculator\obj\Debug\Calculator.pdb
