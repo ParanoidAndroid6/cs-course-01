@@ -19,8 +19,8 @@ namespace LitresHM
             Litres lit = Litres.Litres1 | Litres.Litres5 | Litres.Litres20;
             double num20 = Convert.ToDouble(Litres.Litres20);
             double num05 = Convert.ToDouble(Litres.Litres5);
-            double divide20 = input / num20;
-            double divide20Smth = input % num20;
+            double divide20 = input / 20;
+            double divide20Smth = input % 20;
             double divided = divide20Smth / non;
             Litres divide5 = (Litres)input & Litres.Litres1;
             
