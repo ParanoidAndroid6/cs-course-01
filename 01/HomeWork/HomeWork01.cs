@@ -18,7 +18,6 @@ namespace HomeWork
             Thread.Sleep(5000);
             Console.WriteLine("Bye!");
             Console.ReadLine();
-      
   }
  }
 }
