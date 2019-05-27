@@ -14,14 +14,13 @@ namespace Work1
                 int u = 0;
                 var input = Console.ReadLine();
                 string[] i = input.Split(' ');
+                    if (i.Length == 1)
+                    {
+                        Console.WriteLine("Error! Enter minimum two words please");
+                        break;
+                    }
                     foreach (string o in i)
                     {
-                        if (i.Length == 1)
-                        {
-                            Console.WriteLine("Error! Enter minimum two words please");
-                            continue;
-                        }
-
                         if (o.StartsWith("a"))
                         {
                             u++;
@@ -32,9 +31,7 @@ namespace Work1
                         }
                     }
                     Console.WriteLine($"The count is {u}");
-                    
                 }
-                
             }
             catch(FormatException)
             {
