@@ -8,11 +8,13 @@ namespace ListHM
         {
             bool result = true;
             Stack<char> stk = new Stack<char>();
+            Console.WriteLine("Enter list of brackets:");
             var input = Console.ReadLine();
             char current, previous;
             for (int i = 0; i < input.Length; i++)
             {
                 current = input[i];
+
                 if (current == '(' || current == '[' || current == '{')
                 {
                     stk.Push(current);
