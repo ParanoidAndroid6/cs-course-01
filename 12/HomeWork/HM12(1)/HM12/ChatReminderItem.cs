@@ -2,8 +2,7 @@
 
 namespace HM11
 {
-    public partial class PhoneReminderItem
-    {
+    
         public class ChatReminderItem : PhoneReminderItem
         {
             public string ChatName { get; set; }
@@ -27,4 +26,4 @@ namespace HM11
             }
         }
     }
-}
+
